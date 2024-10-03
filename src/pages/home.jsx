@@ -156,12 +156,7 @@ const Home = ()=> {
                             </div>
                         </div>
                         <div className="w-full h-auto bg-primary flex justify-center items-center py-5 px-28 font-SansSerif text-white text-center">
-                            <p className="text text-zinc-800 text-lg">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium pariatur maiores veniam sint minima, eaque vel, quasi ratione odit 
-                                id quidem non quod sequi eligendi excepturi in distinctio totam ipsa! Iste, laboriosam eveniet 
-                                voluptatem adipisci, provident exercitationem optio in facilis totam asperiores cum odio porro aliquid. Impedit iste similique quaerat porro odio optio cum 
-                                exercitationem, nobis earum inventore voluptatem quibusdam. 
-                                Dolor natus repellat dignissimos delectus similique fugiat, itaque at corporis. Beatae veniam hic inventore, cupiditate, ad asperiores repudiandae labore tempore repellat iusto error quia a vero voluptas quis, quaerat sequi. Ab vitae eum vel
-                                soluta sed esse repudiandae temporibus dolore nam cupiditate ipsa ea iusto cum animi laborum enim quaerat accusamus, illum odit harum! Dicta voluptas amet sit delectus voluptatibus.</p>
+                            <p className="text text-zinc-800 text-lg">"Saya adalah mahasiswa Multi Data Palembang yang berfokus pada bidang teknologi, khususnya pengembangan front-end. Saya terus mengembangkan keterampilan coding dan berkomitmen untuk terus belajar serta berkembang. Saya juga memiliki semangat tinggi untuk berkolaborasi dengan tim demi mencapai hasil terbaik.</p>
                         </div>
                     </div>
                 </div> 
